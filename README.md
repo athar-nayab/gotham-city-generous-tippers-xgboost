@@ -75,4 +75,11 @@ This model helps stakeholders:
 - Identify high-tipping ride patterns
 - Offer insights to improve driver earnings
 - Develop customer targeting or incentive strategies
+- 
+## 👨‍💼 About Me
 
+I’m a Business Intelligence Analyst with 8+ years of experience in analytics, including 5 years at Amazon.  
+I have also worked on high-impact analytics initiatives for Google, currently continuing on the same project as part of my role at Tech Mahindra.
+
+My focus is on transforming data into strategic insights through storytelling, dashboards, and machine learning.  
+This project reflects my growing specialization in predictive modeling and stakeholder-driven analytics — key skills I’m sharpening as I transition deeper into data science roles.
